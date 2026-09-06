@@ -1,6 +1,5 @@
 # R&D / AI Parametric Curve Assignment
 
-# R&D / AI Parametric Curve Assignment
 
 ## 1. Problem Statement
 
